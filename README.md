@@ -2,6 +2,8 @@
 
 ## Instructions
 
+The Kanban app lives in [`frontend/`](frontend/). See [`frontend/README.md`](frontend/README.md) for setup and run instructions.
+
 This is a skeleton project to be the basis for your Kanban project for Week 1 of the Complete AI Coder Course. See the course resources for more.
 
 You should clone this repo within your projects directory with:
